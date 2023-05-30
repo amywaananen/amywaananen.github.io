@@ -1,44 +1,16 @@
-# academic
+# Amy Waananen
 
-### A Jekyll theme for academia
+### PhD Ecology, Evolution, and Behavior
 
-![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
+I have broad interests in eco-evolutionary topics, especially:
 
-A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
+* Plant-pollinator interactions in fragmented landscapes
 
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
+* Understanding organisms' capacity to adapt to climate change.
 
-* Manage courses that you are teaching.
+* Developing actionable science for management.
 
-* Provide updates to your students and faulty.
-
-For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
-
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
-
-## Installation
-
-### Ruby Gem Method
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "academic-jekyll-theme"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: academic-jekyll-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install academic-jekyll-theme
+For more information, please check out my projects [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
 
 ## Usage
 
